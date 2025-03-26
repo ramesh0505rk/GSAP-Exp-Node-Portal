@@ -1,6 +1,6 @@
 let tl = gsap.timeline();
 tl.to('.animated-element', {
-    x: 800
+    x: 850
 });
 
 const lenis = new Lenis();
